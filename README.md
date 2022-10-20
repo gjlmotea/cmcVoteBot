@@ -19,6 +19,7 @@ A vote bot script that everyone can run in computer.
 ## Install
 
 Please install [node.js](https://nodejs.org/en/download/) first.  
+After install node, run:  
 
     > npm install
 
