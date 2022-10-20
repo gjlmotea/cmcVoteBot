@@ -38,7 +38,7 @@ Now, vote script run~
 If you enjoy this little script, and like to help me out:  
 
 
-Give me a $MEWC tip:  
+Give me a $MEWC tip  
 * my wallet address: `MCJ7H56PrMw2Aq3CD339wi6t7kHQxGuiSs`
 
 Let's promote currency circulation and make $MEWC more valuable.  
