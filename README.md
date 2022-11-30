@@ -1,5 +1,6 @@
 # cmcVoteBot
 
+Do lots of polls in short time automatically.  
 A vote bot script that everyone can run in computer.    
 
 
@@ -30,7 +31,7 @@ After install node, run:
     > node main.js
 
 
-Now, vote script run~
+Now, the vote script run~
 
 ---
 
